@@ -65,8 +65,5 @@ No video mostramos a estrutura do site, layout responsivo e funcionamento básic
 
 ## 👥 Integrantes do Grupo
 
-- Lucas Alves Pereira
-- Diego Galias Yoshinaga
-- Diego Motoike Kanamori
-- Gustavo Oliveira Dos Santos
-- João Ricardo de Paula Soares
+- Lucas Pereira
+- Diego Kanamori
